@@ -59,6 +59,7 @@ Evasion Techniques:
 ```
 + Screenshots
 - Main Dashboard
+- 
 ┌─────────────────────────────────────────────────────────────────┐
 │    cPanel Admin Finder v0.0.1 BY WDI Softwre Inc,                
 ├─────────────────────────────────────────────────────────────────┤
