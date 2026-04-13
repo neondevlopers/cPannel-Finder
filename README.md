@@ -60,41 +60,38 @@ Evasion Techniques:
 + Screenshots
 - Main Dashboard
 - 
-┌─────────────────────────────────────────────────────────────────┐
-│    cPanel Admin Finder v0.0.1 BY WDI Softwre Inc,                
-├─────────────────────────────────────────────────────────────────┤
-│       arget Results Statistics Proxy Report
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 
-│  Target URL: [https://example.com           
-│                                                                 
-│  Configuration:                                             
-│  Threads: [50]  Timeout: [5]  Delay: [100ms]                  
-│                                                                 
-│  Wordlists:                                                 
-│  Usernames: [usernames.txt]  Passwords: [passwords.txt]      
-│                                                                 
-│  cPanel Paths: (50+ paths loaded)                          
-│                                                                 
-|  Start Stop Quick Clear Save     
-│                                                                 
-└─────────────────────────────────────────────────────────────────┘
+
+ cPanel Admin Finder v0.0.1 BY WDI Softwre Inc,               
+    arget Results Statistics Proxy Report
+
+                                                                 
+  Target URL: [https://example.com           
+                                                                 
+  Configuration:                                             
+  Threads: [50]  Timeout: [5]  Delay: [100ms]                  
+                                                                
+  Wordlists:                                                 
+  Usernames: [usernames.txt]  Passwords: [passwords.txt]      
+                                                                 
+  cPanel Paths: (50+ paths loaded)                          
+                                                                 
+  Start Stop Quick Clear Save     
+                                                                
+
 + Results Display
-┌─────────────────────────────────────────────────────────────────┐
-│   Results                                                    
-├─────────────────────────────────────────────────────────────────┤
-│  Filter: ___ ☑ Show Only Success                        
-│                                                                 
-│  ┌─────────────────────────────────────────────────────────┐   
-│  │Status    │Type    │URL              │Username│Password│   
-│  ├─────────────────────────────────────────────────────────┤   
-│  │ SUCCESS│ CRED │https://ex...    │admin   │admin123│   
-│  │ FOUND  │ PATH │https://ex...    │N/A     │N/A     │  
-│  │ SUCCESS│ CRED │https://ex...    │root    │password│   
-│  └─────────────────────────────────────────────────────────┘   
-│                                                                 
-│  Total: xxx | Success: x                                       
-└─────────────────────────────────────────────────────────────────┘
+=======
+Results                                                    
+========
+ Filter: ___ ☑ Show Only Success                                                                                       
+ 
+ │Status    │Type    │URL        │Username│Password│   
+  
+ │ SUCCESS│ CRED │https://ex...    │admin   │admin123│   
+ │ FOUND  │ PATH │https://ex...    │N/A     │N/A     │  
+ │ SUCCESS│ CRED │https://ex...    │root    │password│   
+  
+  Total: xxx | Success: x                                       
+
 + Requirements
 ```sh
 Hardware:
