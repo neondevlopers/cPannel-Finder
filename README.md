@@ -79,9 +79,8 @@ Evasion Techniques:
                                                                 
 
 + Results Display
-=======
-Results                                                    
-========
+
+ Results                                                    
  Filter: ___ ☑ Show Only Success                                                                                       
  
  │Status    │Type    │URL        │Username│Password│   
